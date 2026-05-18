@@ -45,7 +45,7 @@ Our modules are designed and tested to meet industry standards including CE, FCC
 
 - **Official Website**: [sunflaser.com](https://sunflaser.com)
 - **Business Inquiries**: [sales@sunflaser.com](mailto:sales@sunflaser.com)
-- **Phone**: +86 186 2827 7862 (Manager Cao)
+- **Phone**: +86 852 461 37976 (Manager Cao)
 - **Technical Support**: Please [open an Issue](https://github.com/SUNFLASER/Technical-documents-for-Laser-Rangefinder-Products/issues) for any questions about our documentation or products. We typically respond within 1-2 business days.
 
 ## Revision History
